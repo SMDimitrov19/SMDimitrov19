@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Kalin.;Welcome+to+my+profile!">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Stanimir.;Welcome+to+my+profile!">
 </h1>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
