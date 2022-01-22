@@ -16,9 +16,9 @@ const user = {
   fav_theme: [ "dark", "halloween","black-green" ],
   fav_color: #30c996,
   
-  myhobbies: [ "Programming", "Hiking", "Going to gym", "Playing Volleyball", "Learning new things", ],
+  myhobbies: [ "Programming", "Hiking", "Gym", "Hanging out", "Learning new things", ],
   knowledge: [ "none", ],
-  languages: [ "C++", "C#", "Javascript", "HTML", "CSS3", ],
+  languages: [ "C++", "C#", "Javascript", "HTML", "CSS3","Lua","Python" ],
   myeditors: [ "VS Code", "Repl.it", "VS" ],
   
   learnNewLanguage: function () {
@@ -30,7 +30,7 @@ const user = {
   },
   
   Eating: function (food) {
-    const good = [ "Sushi", "Pasta", "Musaka", "Meat", ]
+    const good = [ "Sushi", "Chinese", "Musaka", "Meat", ]
   },
 }
 ```
